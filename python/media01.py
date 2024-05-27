@@ -1,5 +1,5 @@
 """
-Cálculando a média ponderada - Bee 1005
+Calculando a média ponderada - Bee 1005
 
 Name: media01.py
 Descripition: script para realizar a média ponderada
