@@ -1,7 +1,7 @@
 """
 Efetuando a soma de dois valores em python - Bee 1001
 
-Name: Basico.py
+Name: basico.py
 Descripition: script para efetuar a soma de dois valores
 
 Author: Ana Caroline P. e Silva
