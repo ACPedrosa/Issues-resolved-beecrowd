@@ -1,5 +1,5 @@
 """
-Imprimindo o primeiro Hello World em python
+Imprimindo o primeiro Hello World em python - Bee 1000
 
 Name: HelloWorld.py
 Descripition: script para imprimir Hello World em python
