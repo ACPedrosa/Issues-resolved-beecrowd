@@ -1,7 +1,7 @@
 """
 Imprimindo o primeiro Hello World em python - Bee 1000
 
-Name: HelloWorld.py
+Name: hello_world.py
 Descripition: script para imprimir Hello World em python
 
 Author: Ana Caroline P. e Silva
