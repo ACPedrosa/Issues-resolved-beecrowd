@@ -1,5 +1,13 @@
 '''
+Leia 3 valores reais (A, B e C) e verifique se eles formam ou não um triângulo. Bee - 1043
 
+Name: triangulo.py
+Descripition: script para verificar se os valores de entrada formam um trinagulo
+
+Author: Ana Caroline P. e Silva
+Version: 1.0
+Creation Date: 01/10/2024
+Last Modified: 01/10/2024
 '''
 x = input().split()
 a, b, c =x
